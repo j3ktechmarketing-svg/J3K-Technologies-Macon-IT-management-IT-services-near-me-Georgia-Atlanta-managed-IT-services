@@ -60,9 +60,3 @@ Why businesses trust us:
 - Cost-effective services without compromising quality
 
 Partner with J3K Technologies to gain reliable Macon IT management, accessible IT services across Georgia, and trusted Atlanta managed IT services. Our solutions are designed to reduce downtime, improve security, and keep your business running efficiently. Contact us today to build an IT strategy that empowers your business growth.
-
----
-
-This repository highlights our dedication to helping Georgia businesses achieve secure, efficient, and future-ready IT operations.
-
----
